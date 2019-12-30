@@ -1,0 +1,15 @@
+.container3 {
+    background: #fff;
+    width: 1000px;
+    height: auto;
+    margin: 10px auto;
+    border-radius: 30px;
+}
+.pics {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container3 .pics img {
+	margin: 10px 15px 10px 15px;
+}
